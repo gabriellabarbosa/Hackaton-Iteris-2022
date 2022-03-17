@@ -8,13 +8,14 @@ Um componente é uma pequena parte de uma tela. Uma tela pode possuir vários co
 
 No Vue, um componente contém HTML, CSS e Javascript, tudo no mesmo arquivo.
 
+
 ## Adicionando Recursos
 
 - Para adicionar rotas rode o comando "vue add router"
 - Para adicionar o Vuetify rode o comando "vue add vuetify" e escolha as opção recomendada
 - Não pode esquecer de executar o "npm install" antes de executar os projetos
+- Para verificar a versão do Node, abra o CMD e digite node --version.
 
-Para verificar a versão do Node, abra o CMD e digite node --version.
 
 ## Inicio:
 
